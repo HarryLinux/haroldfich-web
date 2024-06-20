@@ -1,38 +1,47 @@
-const logotext = "JOHN";
+const logotext = "HAROLD";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Harold Fich",
+    description: "I’m Harold Fich data scientist _ Full stack devloper,currently working in New York",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Harold Fich",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
-        third: "I develop mobile apps",
+        third: "I do stand-up comedy",
     },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "A bit about myself",
+    aboutme: "Experienced Software Engineer with a strong background in developing scalable web applications and maintaining CI/CD pipelines. Proficient in JavaScript, TypeScript, Python, and GoLang, with hands-on experience in NodeJS, React, and Azure. Adept at working in fast-paced environments and delivering high-quality software solutions.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "DevOps & Software Engineer",
+        where: "Comcast",
+        date: "February 2023 – October 2023",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "Azure Developer Support Engineer",
+        where: "Microsoft",
+        date: "August 2022 – January 2023",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "Software Engineer",
+        where: "Nava Benefits",
+        date: "February 2022 – July 2022",
+    },
+    {
+        jobtitle: "Software Engineer",
+        where: "StructionSite",
+        date: "April 2021 – November 2021",
+    },{
+        jobtitle: "QA Automation Engineer",
+        where: "Comcast",
+        date: "January 2019 - April 2021",
     },
 ];
 

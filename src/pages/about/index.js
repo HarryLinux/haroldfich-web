@@ -40,7 +40,7 @@ export const About = () => {
             <h3 className="color_sec py-4">Work Timline</h3>
           </Col>
           <Col lg="7">
-            <table className="table caption-top">
+            <table className="table-dark caption-top">
               <tbody>
                 {worktimeline.map((data, i) => {
                   return (
