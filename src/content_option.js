@@ -1,18 +1,19 @@
 const logotext = "HAROLD";
+const logoImage = require("./assets/images/harry-logo-home.jpg");
 const meta = {
     title: "Harold Fich",
     description: "I’m Harold Fich data scientist _ Full stack devloper,currently working in New York",
 };
 
 const introdata = {
-    title: "I’m Harold Fich",
+    title: "I’m Harold Fich.",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I do stand-up comedy",
+        first: "I love coding.",
+        second: "I create solutions.",
+        third: "I do stand-up comedy.",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "I graduated from Monroe College with a Bachelor of Science in Computer Information Systems in 2018, where I learned the fundamentals of programming, database management, networking, and security. I am passionate about learning new technologies and staying at the forefront of an ever-changing industry. I am a self-motivated individual, with strong interpersonal and communication skills, and a technical background. My goal is to create innovative and scalable solutions that solve real-world problems and add value to the users and the business.",
+    your_img_url: logoImage,
 };
 
 const dataabout = {
@@ -46,37 +47,37 @@ const worktimeline = [{
 ];
 
 const skills = [{
-        name: "Python",
+        name: "JavaScript",
         value: 90,
     },
     {
-        name: "Djano",
+        name: "Python",
         value: 85,
     },
     {
-        name: "Javascript",
+        name: "NodeJS",
         value: 80,
     },
     {
         name: "React",
-        value: 60,
+        value: 75,
     },
     {
-        name: "Jquery",
+        name: "DevOps",
         value: 85,
     },
 ];
 
 const services = [{
+        title: "DevOps",
+        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+    },
+    {
+        title: "Beckend Development",
+        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+    },
+    {
         title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Wordpress Design",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
     },
 ];
@@ -145,9 +146,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "haroldfich@gmail.com",
+    YOUR_FONE: "Email for phone contact",
+    description: "Reach out for interviews, comedy shows, event bookings, other inquiries or just to show love.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -156,10 +157,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/harrylinux",
+    instagram: "https://instagram.com",
+    linkedin: "https://www.linkedin.com/in/harold-fich-2bb4b4128/",
 };
 export {
     meta,
