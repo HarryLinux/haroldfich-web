@@ -56,11 +56,11 @@ const skills = [{
     },
     {
         name: "NodeJS",
-        value: 80,
+        value: 85,
     },
     {
         name: "React",
-        value: 75,
+        value: 80,
     },
     {
         name: "DevOps",
