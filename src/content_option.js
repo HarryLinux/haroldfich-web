@@ -151,9 +151,9 @@ const contactConfig = {
     description: "Reach out for interviews, comedy shows, event bookings, other inquiries or just to show love.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_8imwl4j",
+    YOUR_TEMPLATE_ID: "template_yw8rkej",
+    YOUR_PUBLIC_KEY: "OkEP9OIwJJotkSuvH",
 };
 
 const socialprofils = {
