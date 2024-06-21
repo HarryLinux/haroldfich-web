@@ -17,7 +17,7 @@ const introdata = {
 };
 
 const dataabout = {
-    title: "A bit about myself",
+    title: "About myself",
     aboutme: "Experienced Software Engineer with a strong background in developing scalable web applications and maintaining CI/CD pipelines. Proficient in JavaScript, TypeScript, Python, and GoLang, with hands-on experience in NodeJS, React, and Azure. Adept at working in fast-paced environments and delivering high-quality software solutions.",
 };
 const worktimeline = [{
@@ -26,7 +26,7 @@ const worktimeline = [{
         date: "February 2023 – October 2023",
     },
     {
-        jobtitle: "Azure Developer Support Engineer",
+        jobtitle: "Azure Development Engineer",
         where: "Microsoft",
         date: "August 2022 – January 2023",
     },
@@ -70,15 +70,15 @@ const skills = [{
 
 const services = [{
         title: "DevOps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "Dedicated and experienced DevOps Engineer with a strong background in building and optimizing CI/CD pipelines using GitHub Actions and Concourse. Skilled in containerization and orchestration with Docker and Kubernetes, ensuring seamless deployment and management of scalable applications. Proficient in automation with Terraform and Jenkins, streamlining infrastructure provisioning and continuous integration processes. Proven ability to collaborate with development and operations teams to enhance efficiency, reliability, and performance across the software development lifecycle.",
     },
     {
         title: "Beckend Development",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "Passionate and highly skilled Backend Web Developer with extensive experience in designing and implementing scalable, robust, and secure web applications. Proficient in Python, JavaScript, GoLang, and Java, with a strong background in leveraging Postgres, Oracle, and MongoDB databases to ensure optimal data management and retrieval. Adept in utilizing AWS and Azure cloud services to deploy and manage complex applications, ensuring reliability and performance. Proven track record of collaborating effectively with cross-functional teams to deliver high-quality software solutions that meet and exceed client expectations.",
     },
     {
         title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "If you made it this far, then you know my UI/UX design skills are up to par. Hit the contact form with any feedback you may have.",
     },
 ];
 
@@ -158,7 +158,7 @@ const contactConfig = {
 
 const socialprofils = {
     github: "https://github.com/harrylinux",
-    instagram: "https://instagram.com",
+    instagram: "https://www.instagram.com/harold.fich?igsh=aWVsc2JxYTkzYjA5&utm_source=qr",
     linkedin: "https://www.linkedin.com/in/harold-fich-2bb4b4128/",
 };
 export {
