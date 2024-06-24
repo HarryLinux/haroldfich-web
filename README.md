@@ -12,8 +12,6 @@ A simple portfolio template for developer/designers built with React.
 
 ### Setup
 
-Get the code
-
 Install required dependencies
 
 <pre>yarn install</pre>
